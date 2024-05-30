@@ -24,6 +24,6 @@
 
 @media (max-width: 900px) {
     .recommended {
-        flex-basis: 50%;
+        flex-basis: 100%;
     }
 }
